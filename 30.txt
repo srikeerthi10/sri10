@@ -1,1 +1,3 @@
 create table tablename
+use banda
+my name aloo bajji
