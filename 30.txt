@@ -1,4 +1,2 @@
 create table tablename
-use banda
-my name aloo bajji
-my name is bindu 
+
